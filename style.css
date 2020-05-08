@@ -1,0 +1,54 @@
+body {
+    background-image: url(travel-pic2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    }
+    h1{
+      color: rgb(19, 43, 95);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+    }
+    .nav-link{
+        margin-left: 750px;
+    }
+    #button-addon2{
+      background-color: rgb(38, 104, 65);
+      color: white;
+      border-radius: 0 1rem 1rem 0;
+    }
+    h1:hover{
+      color: gold;
+    }
+    #button-addon2:hover{
+      background-color: black;
+    }
+    .card {
+        background-color: #4D9078be;
+        color: black;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 400;
+        margin: 80px 30px 30px 30px;
+    }
+    .shearching{
+      padding: 15px;
+      margin: 125px 15px 15px 150px;
+      float: center;
+      width: 80%;
+    }
+    .navbar-brand {
+        font-size: 40px;
+        padding: 5px;
+        width: 100%;
+    }
+      .footer {
+        text-align: center;
+        background-color: #212529;
+        color: whitesmoke;
+        width: 100%;
+        position:absolute;
+        margin-top: 10px;
+        border-top: 2px solid;
+        left: 0;
+      }
